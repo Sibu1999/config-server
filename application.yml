@@ -1,2 +1,2 @@
 example:
-  message: Hello from the embedded Config Server!
+  message: "Hello from the embedded Config Server!"
